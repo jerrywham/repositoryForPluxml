@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	
+	<plugin>
+		<title><![CDATA[phpGraphForPluxml]]></title>
+		<author><![CDATA[jerry wham]]></author>
+		<version>1.2</version>
+		<date>11/02/2015</date>
+		<site>http://www.ecyseo.net/</site>
+		<description><![CDATA[Permet l'affichage de graphiques svg dans les articles]]></description>
+		<name>phpGraphForPluxml</name>
+		<file>https://github.com/jerrywham/phpGraphForPluxml/archive/master.zip</file>
+		<icon>https://github.com/jerrywham/phpGraphForPluxml/blob/master/icon.png</icon>	
+	</plugin>
+	
+</document>
