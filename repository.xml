@@ -10,7 +10,7 @@
 		<description><![CDATA[Permet l'affichage de graphiques svg dans les articles]]></description>
 		<name>phpGraphForPluxml</name>
 		<file>https://github.com/jerrywham/phpGraphForPluxml/archive/master.zip</file>
-		<icon>https://github.com/jerrywham/phpGraphForPluxml/blob/master/icon.png</icon>	
+		<icon>https://raw.githubusercontent.com/jerrywham/phpGraphForPluxml/master/icon.png</icon>	
 	</plugin>
 	
 </document>
